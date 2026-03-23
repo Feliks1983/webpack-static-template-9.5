@@ -1,0 +1,1 @@
+# webpack-static-template-9.5
