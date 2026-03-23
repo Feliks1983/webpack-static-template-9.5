@@ -1,1 +1,1 @@
-# webpack-static-template-9.5
+https://github.com/Feliks1983/webpack-static-template-9.5.git
